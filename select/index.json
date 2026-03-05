@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バカみたいに",
+  "base_artist": "柿崎ユウタ",
+  "createdAt": "2026-03-05T01:37:59.810860Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バカみたいに",
+      "artist": "柿崎ユウタ",
+      "has_synced": false,
+      "path": "select/pl_01_バカみたいに_柿崎ユウタ.txt"
+    }
+  ]
+}
